@@ -1,0 +1,8 @@
+.actions {
+    display: flex;
+    align-items: center;
+}
+
+.actions div:nht-child(2) {
+    margin: 0px 10px;
+}

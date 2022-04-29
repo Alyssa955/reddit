@@ -1,0 +1,8 @@
+.trending-today-section {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.trending-today-section .items {
+    display: flex;
+}
